@@ -15,5 +15,9 @@
         "src": "default"
       }
     }
-  ]
+  ],
+  "framework": {
+    "name": "custom",
+    "version": "0.0.1"
+  }
 }
